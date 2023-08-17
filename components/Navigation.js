@@ -19,6 +19,9 @@ export default function Navigation() {
         <NavigationIcon href='/'>
           <IconNavHome />
         </NavigationIcon>
+        <NavigationIcon href='/lendingPage'>
+          <h1>Home</h1>
+        </NavigationIcon>
         <NavigationIcon href='/movie'>
           <IconNavMovie />
         </NavigationIcon>
